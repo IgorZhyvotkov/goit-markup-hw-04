@@ -177,7 +177,7 @@ p {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(/images/hero.jpg);
+    url(../images/hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -251,16 +251,16 @@ p {
   background-size: 70px;
 }
 .antena::before {
-  background-image: url(/images/icon/antenna.svg);
+  background-image: url(../images/icon/antenna.svg);
 }
 .clock::before {
-  background-image: url(/images/icon/clock.svg);
+  background-image: url(../images/icon/clock.svg);
 }
 .diagram::before {
-  background-image: url(/images/icon/diagram.svg);
+  background-image: url(../images/icon/diagram.svg);
 }
 .astronaut::before {
-  background-image: url(/images/icon/astronaut.svg);
+  background-image: url(../images/icon/astronaut.svg);
 }
 
 /*------------------------------------------------- Activity */
